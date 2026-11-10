@@ -4,7 +4,7 @@ Aplikasi pencatat (*note-taking*) mobile yang ultra-ringan, minimalis, dan berja
 
 ## Fitur Utama
 
-* **Estetika De Stijl**:
+* **Estetika Notes**:
 
   * `0px border radius` di seluruh elemen UI.
 
